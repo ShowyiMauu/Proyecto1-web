@@ -1,0 +1,58 @@
+body{
+    background-color: rgb(153, 189, 231);
+    
+} 
+img{
+    width: 250px;
+    height: 250px;
+    border-radius: 24px;
+}
+#lol{
+    width: 500px;
+    height: 250px;
+    border-radius: 24px;
+}
+
+#botoncito{
+    width: 100px;
+    height: 75px;
+    font-family: Arial;
+    font-size: larger;
+    color: rgb(255, 255, 255);
+    border-color: rgb(190, 30, 30);
+    border-radius: 10px;
+    cursor:all-scroll;
+    background-color: rgb(60, 17, 88);
+    
+}   
+#botoncito:hover{
+    background-color: blueviolet;
+}
+#botoncito:active{
+    background-color: rgb(195, 159, 159);
+}
+
+nav{
+    background-color:rgb(61, 50, 128);
+    color: rgb(255, 255, 255);
+    text-align: center;
+    font-size: 30px;
+    font-family: Helvetica;
+ 
+}
+li{
+    list-style:none;
+}
+nav ul li{
+    display:inline;
+    padding: 5px;
+    
+}
+a{
+    color:blanchedalmond;
+    text-decoration: none;
+
+}
+a:hover{
+    
+}
